@@ -1,0 +1,12 @@
+.hidden{
+  display: none;
+}
+header {
+  border: black 2px solid;
+  padding: 1px;
+  margin: 1px;
+}
+
+#main-content{
+  //border: 2px black solid
+}
